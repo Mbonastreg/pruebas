@@ -1,0 +1,3 @@
+En reposo, a nivel físico, en nuestro caso podría ser el fichero .mdf, .ldf o los backups que se realizan de la base de datos.
+En uso, a nivel lógico, es decir, los datos que encontramos en las tablas de una base de datos.
+En tránsito, cuando nuestros datos viajan en forma de paquetes por la red.
